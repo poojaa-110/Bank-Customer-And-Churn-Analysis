@@ -4,7 +4,7 @@
 
 This project is an **Excel-based Customer Retention and Churn Management Information System** designed to help a bank identify customer segments with higher churn risk and understand the characteristics associated with customer attrition.
 
-The MIS provides a structured view of customer churn using **PivotTables, KPI calculations, segmentation analysis, charts, and an executive dashboard**.
+This provides a structured view of customer churn using **PivotTables, KPI calculations, segmentation analysis, charts, and an executive dashboard**.
 
 The primary business question addressed is:
 
