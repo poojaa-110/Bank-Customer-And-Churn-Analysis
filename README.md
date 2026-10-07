@@ -134,13 +134,4 @@ The dashboard also includes a **Key Risk Segments** section to highlight custome
 
 The Executive Summary converts the analytical findings into management-oriented insights.
 
-## 📈 Key KPIs
 
-### Customer Churn Rate
-
-Customer churn rate measures the percentage of customers who have exited the bank.
-
-**Formula:**
-
-```text
-Churn Rate = Churned Customers / Total Customers
