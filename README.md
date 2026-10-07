@@ -134,7 +134,6 @@ The dashboard also includes a **Key Risk Segments** section to highlight custome
 
 The Executive Summary converts the analytical findings into management-oriented insights.
 
-
 ## 📈 Key KPIs
 
 ### Customer Churn Rate
